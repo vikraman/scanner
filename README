@@ -1,0 +1,7 @@
+A simple port scanner to identify open ports on a host or hosts on a subnet
+
+TODO
+
+* Improve the code (this was written when I was just learning sockets)
+* Scan all ports
+* use some other better method to detect open ports
